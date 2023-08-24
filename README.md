@@ -18,23 +18,7 @@ Assets Folder: The assets folder houses essential files, backgrounds, and resour
 
 📌MS PowerPoint
 
-## Insights and Trends
-
-Fees by Field of Study
-
-Fees by Admission Year
-
-Fees by Specialization
-
-Fees VS Discount on Fees By Specialization
-
-No. of Students by Admission Year
-
-No. of students by Graduation Year
-
-Overall Students by Field of Study
-
-No. of Students Per(currnt) Semester
+Explore the dahsboard to discover trends and get respective insights.
 
 Summary 
 
