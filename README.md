@@ -19,9 +19,3 @@ Assets Folder: The assets folder houses essential files, backgrounds, and resour
 📌MS PowerPoint
 
 Explore the dahsboard to discover trends and get respective insights.
-
-Summary 
-
-Additional Tooltip - No of Students VS Year
-
-Additional Tooltip - Fees Vs Discount
